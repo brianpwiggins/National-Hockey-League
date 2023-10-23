@@ -1,0 +1,30 @@
+Test data used from Umbrella test DLP sample data. 
+
+US Bank Account Number
+
+    Checking Account Number 12345 
+
+US Driver's License Number
+
+    drivers license: ssn 113-01-1111
+
+US Individual Taxpayer Identification Number (ITIN)
+
+    taxpayer: 912-78-1224
+US Passport Number
+
+    123456789USA1234567U1234567 passport
+
+US Person Name and Date of Birth (Lenient)
+
+    Clark Hfldaskjfiougj has a date of birth of 01/15/1975
+
+US Person Name and Date of Birth (Moderate)
+
+    Clark Hfldaskjfiougj has a date of birth of 01/15/1975
+
+US Person Name and Date of Birth (Strict)
+
+    Clark Kent has a date of birth of 01/15/1975
+
+
